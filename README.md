@@ -18,7 +18,7 @@
 <p h2 align="center">
 
 ### Course Instructor:
-* Dr. Mojtaba Sabbagh-Jafari
+* [Dr. Mojtaba Sabbagh-Jafari](https://github.com/mojtaba-sabbagh)
 
 ### Teaching Assistants:
 * **TA:**
